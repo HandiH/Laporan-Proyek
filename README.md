@@ -9,7 +9,8 @@ Laporan tentang Proyek III
 		<h3>BAB II : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
 	</li>
 	<ul>
-		<li>Menulis apa saja yang diperlukan untuk landasan teori, pengertian belum diketik sama sekali.</li>
+		<li>Menulis apa saja yang diperlukan untuk landasan teori.</li>
+		<li>pengertian belum diketik sama sekali.</li>
 	</ul>
 	</li>
 	<li>
