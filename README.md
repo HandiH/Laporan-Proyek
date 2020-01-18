@@ -1,11 +1,9 @@
 # Laporan-Proyek
 Laporan tentang Proyek III
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 <ol>
 	<li>
-		<h3>BAB I : <span class="btn btn-success"><b>Sudah Beres</b></span c></h3>
+		<h3>BAB I : <span style="background-color: greenyellow;display: inline;"><b>Sudah Beres</b></span></h3>
 	</li>
 	<li>
 		<h3>BAB II : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
@@ -40,3 +38,4 @@ Laporan tentang Proyek III
 		</ul>
 	</li>
 </ol>
+
