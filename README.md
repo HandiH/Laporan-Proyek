@@ -16,7 +16,7 @@ Laporan tentang Proyek III
 			<li>2.5 Aplikasi</li>
 			<li>2.6 Booking</li>
 			<li>2.7 Faktur</li>
-		<ul>
+		</ul>
 	</ul>
 	</li>
 	<li>
