@@ -6,7 +6,7 @@ Laporan tentang Proyek III
 		<h3>BAB I : <span style="background-color: greenyellow;display: inline;"><b>Sudah Beres</b></span></h3>
 	</li>
 	<li>
-		<h3>BAB II : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
+		<h3>BAB II : <span style="background-color: red;display: inline;"><b>Beres</b></span></h3>
 	</li>
 	<li>
 		<h3>BAB III : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
