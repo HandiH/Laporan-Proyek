@@ -8,17 +8,6 @@ Laporan tentang Proyek III
 	<li>
 		<h3>BAB II : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
 	</li>
-	<ul>
-		<li>Pengertian yang belum beres :</li>
-		<ul>
-			<li>2.2 UMKM</li>
-			<li>2.4 Partner Bisnis</li>
-			<li>2.5 Aplikasi</li>
-			<li>2.6 Booking</li>
-			<li>2.7 Faktur</li>
-		</ul>
-	</ul>
-	</li>
 	<li>
 		<h3>BAB III : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
 		<ul>
