@@ -9,7 +9,7 @@ Laporan tentang Proyek III
 		<h3>BAB II : <span style="background-color: red;display: inline;"><b>Sudah Beres</b></span></h3>
 	</li>
 	<li>
-		<h3>BAB III : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
+		<h3>BAB III : <span style="background-color: red;display: inline;"><b>Belum Beres</b></span></h3>
 		<ul>
 			<li>Flowmap yang berjalan pada Partnership</li>
 			<li>Flowmap yang akan dibangun pada Pencarian Kosan</li>
@@ -31,15 +31,12 @@ Laporan tentang Proyek III
 		</ul>
 	</li>
 	<li>
-		<h3>BAB V : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
-		<ul>
-			<li>Masih Kosong</li>
-		</ul>
+		<h3>BAB V : <span style="background-color: red;display: inline;"><b>Sudah Beres</b></span></h3>
 	</li>
 	<li>
 		<h3>Daftar Pustaka : <span style="background-color: red;display: inline;"><b>Belum beres</b></span></h3>
 		<ul>
-			<li>Baru ada 10 daftar pustaka</li>
+			<li>Jumlah sitasi : 15</li>
 		</ul>
 	</li>
 </ol>
